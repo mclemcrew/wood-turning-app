@@ -1,0 +1,7 @@
+#Sat Sep 16 23:42:13 CDT 2017
+base.0=C\:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b80a81d1b75925c03dc1b957f465d0710fb1ac27
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5a9023fb51fdc346c8c5aa52ba965e1572cfc441\\classes.dex
+base.1=C\:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5a9023fb51fdc346c8c5aa52ba965e1572cfc441
+file.0=C\:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b80a81d1b75925c03dc1b957f465d0710fb1ac27\\classes.dex

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_border.xml",
+        "source": "C:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\src\\main\\res\\drawable\\custom_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lightgreenbutton.xml",
+        "source": "C:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\src\\main\\res\\drawable\\lightgreenbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_fill.xml",
+        "source": "C:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\src\\main\\res\\drawable\\progress_fill.xml"
+    },
+    {
+        "merged": "C:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yellowprogress.xml",
+        "source": "C:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\src\\main\\res\\drawable\\yellowprogress.xml"
+    },
+    {
+        "merged": "C:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\darkgreenbutton.xml",
+        "source": "C:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\src\\main\\res\\drawable\\darkgreenbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumb.png",
+        "source": "C:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\src\\main\\res\\drawable\\thumb.png"
+    },
+    {
+        "merged": "C:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lightredbutton.xml",
+        "source": "C:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\src\\main\\res\\drawable\\lightredbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_fill.xml",
+        "source": "C:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\src\\main\\res\\drawable\\background_fill.xml"
+    },
+    {
+        "merged": "C:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress.xml",
+        "source": "C:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\src\\main\\res\\drawable\\progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\darkredbutton.xml",
+        "source": "C:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\src\\main\\res\\drawable\\darkredbutton.xml"
+    }
+]

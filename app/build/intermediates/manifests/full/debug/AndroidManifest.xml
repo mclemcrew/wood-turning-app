@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tumaku.msmble"
+    android:versionCode="6"
+    android:versionName="1.1.3" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+
+    <uses-feature
+        android:name="android.hardware.bluetooth_le"
+        android:required="true" />
+
+    <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="com.tumaku.msmble.TumakuBLEApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/no_title" >
+        <activity android:name="com.tumaku.msmble.SplashActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tumaku.msmble.MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.tumaku.msmble.HM10Activity"
+            android:label="@string/monitorHM10" />
+
+        <receiver
+            android:name="com.tumaku.msmble.MessageReceiver"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="com.yeelight.DEVICE_FOUND" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.tumaku.msmble.DeviceMessageReceiver"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="com.yeelight.blue.DEVICE_CONNECTED" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hm10.xml",
+        "source": "C:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\src\\main\\res\\layout\\hm10.xml"
+    },
+    {
+        "merged": "C:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "C:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list_item.xml",
+        "source": "C:\\Users\\micha\\Downloads\\MSMBle-master1\\app\\src\\main\\res\\layout\\device_list_item.xml"
+    }
+]

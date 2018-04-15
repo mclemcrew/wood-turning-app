@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\micha\Downloads\MSMBle-master1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38892ec118da9689eb7de5c9484f4f76ae0ecee1">
+        <dex dex="C:\Users\micha\Downloads\MSMBle-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b80a81d1b75925c03dc1b957f465d0710fb1ac27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\micha\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="C:\Users\micha\Downloads\MSMBle-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.0_0c645f8d8cae008860211cc8717ec92164207009\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\micha\Downloads\MSMBle-master1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="168678e1b3c5260bfda83d7317c1e27ac0fcedfd">
+        <dex dex="C:\Users\micha\Downloads\MSMBle-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5a9023fb51fdc346c8c5aa52ba965e1572cfc441\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\micha\Downloads\MSMBle-master1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="C:\Users\micha\Downloads\MSMBle-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.0_5a619edbba917bbbd02b55574f96c43cb92f1db4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\micha\Downloads\MSMBle-master1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\libs\internal_impl-21.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="C:\Users\micha\Downloads\MSMBle-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.0_a8725a3739906ef703620b801e8b7a620198eead\classes.dex" />
+    </item>
+
+</items>
